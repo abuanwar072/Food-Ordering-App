@@ -1,6 +1,6 @@
 # Food Ordering App - Flutter UI
 
-## [Watch it on YouTube (coming soon)](#)
+## [Watch it on YouTube](https://youtu.be/F0ujC60wHwc)
 
 **Packages we are using:**
 
